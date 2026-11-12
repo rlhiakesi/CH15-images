@@ -1,0 +1,32 @@
+CH15 PAGE 044 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P044-PN01
+SPEECH | Midori | IDs: CH15-U0283
+(Midori: "Supply column."
+-> "We'll only get one opportunity.")
+SPEECH | Midori | IDs: CH15-U0284
+(Midori: "I'll meet you here.")
+
+CH15-P044-PN02
+SFX | SFX | IDs: CH15-U0285
+Sound: BOOOOOOM!!
+
+CH15-P044-PN03
+SPEECH | Wind Mage | IDs: CH15-U0286
+(Wind Mage: "Enough left to get home.")
+
+CH15-P044-PN04
+SPEECH | Midori | IDs: CH15-U0287
+(Midori: "That's all I planned for.")
+NARRATION | Narration | IDs: CH15-U0288
+Narration:
+"Every mission began with a full reserve..."
+NARRATION | Narration | IDs: CH15-U0289
+"...and ended with one question."
+NARRATION | Narration | IDs: CH15-U0290
+"Had enough mana been left to return?"
+
+CH15-P044-PN05
+NARRATION | Narration | IDs: CH15-U0291
+Narration: "Over the following weeks..."

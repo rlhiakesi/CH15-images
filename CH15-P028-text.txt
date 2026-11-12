@@ -1,0 +1,35 @@
+CH15 PAGE 028 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P028-PN01
+SPEECH | Commander | IDs: CH15-U0160
+(Commander: "Exactly as Lady Midori predicted.")
+
+CH15-P028-PN02
+SPEECH | Midori | IDs: CH15-U0161
+(Midori: "Next time..."
+-> "...they won't make the same mistake.")
+NARRATION | Narration | IDs: CH15-U0162
+Narration:
+"The first victory belonged not to a new weapon..."
+NARRATION | Narration | IDs: CH15-U0163
+"...but to a new way of thinking."
+
+CH15-P028-PN03
+NARRATION | Narration | IDs: CH15-U0164
+Narration: "In the following weeks..."
+
+CH15-P028-PN04
+SPEECH | Midori | IDs: CH15-U0165
+(Midori: "Enemy artillery.")
+SPEECH | Midori | IDs: CH15-U0166
+(Midori: "Three batteries."
+-> "Hidden beneath the trees.")
+SPEECH | Wind Mage | IDs: CH15-U0167
+(Wind Mage: "Approaching.")
+
+CH15-P028-PN05
+SPEECH | Wind Mage | IDs: CH15-U0168
+(Wind Mage: "I'll stay with the Sky Sail.")
+SPEECH | Midori | IDs: CH15-U0169
+(Midori: "I'll be back before they know what happened.")

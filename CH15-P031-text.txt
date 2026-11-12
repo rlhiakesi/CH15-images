@@ -1,0 +1,24 @@
+CH15 PAGE 031 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P031-PN01
+NARRATION | Narration | IDs: CH15-U0183
+Narration:
+"Titles are rarely claimed."
+NARRATION | Narration | IDs: CH15-U0184
+"They are bestowed by those whose lives have been changed."
+
+CH15-P031-PN02
+[SILENT — NO LETTERING]
+
+CH15-P031-PN03
+SPEECH | Roselyn | IDs: CH15-U0185
+(Roselyn: "Class..."
+-> "Today we are honored to welcome one of our own.")
+SPEECH | Midori | IDs: CH15-U0186
+(Midori: "Please..."
+-> "...there's no need for that.")
+
+CH15-P031-PN04
+SPEECH | Roselyn | IDs: CH15-U0187
+(Roselyn: "You may have to get used to it.")

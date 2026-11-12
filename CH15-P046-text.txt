@@ -1,0 +1,30 @@
+CH15 PAGE 046 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P046-PN01
+[SILENT — NO LETTERING]
+
+CH15-P046-PN02
+[SILENT — NO LETTERING]
+
+CH15-P046-PN03
+SPEECH | Officer | IDs: CH15-U0295
+(Officer: "Supply line eliminated.")
+SPEECH | Officer | IDs: CH15-U0296
+(Officer: "Lady Midori?")
+SPEECH | Officer | IDs: CH15-U0297
+(Officer: "Lady Midori.")
+
+CH15-P046-PN04
+NARRATION | Narration | IDs: CH15-U0298
+Narration:
+"One mission became another..."
+NARRATION | Narration | IDs: CH15-U0299
+"...until the impossible slowly became ordinary."
+
+CH15-P046-PN05
+SPEECH | Buren | IDs: CH15-U0300
+(Buren: "Again!"
+-> "You left your left flank exposed.")
+SPEECH | Cadet | IDs: CH15-U0301
+(Cadet: "Yes, Sir!")

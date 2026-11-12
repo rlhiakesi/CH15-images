@@ -1,0 +1,33 @@
+CH15 PAGE 030 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P030-PN01
+[SILENT — NO LETTERING]
+
+CH15-P030-PN02
+[SILENT — NO LETTERING]
+
+CH15-P030-PN03
+SPEECH | Young Officer | IDs: CH15-U0174
+(Young Officer: "Was it her again?")
+SPEECH | Commander | IDs: CH15-U0175
+(Commander: "Lady Midori.")
+SPEECH | Officer | IDs: CH15-U0176
+(Officer: "The enemy must think she can appear anywhere.")
+
+CH15-P030-PN04
+SPEECH | Battle Mage | IDs: CH15-U0177
+(Battle Mage: "Another supply depot.")
+SPEECH | Battle Mage | IDs: CH15-U0178
+(Battle Mage: "She's at it again.")
+SPEECH | Battle Mage | IDs: CH15-U0179
+(Battle Mage: "They've started calling her something.")
+
+CH15-P030-PN05
+SPEECH | Battle Mage | IDs: CH15-U0180
+(Battle Mage: "The Ace Mage.")
+SPEECH | Battle Mage | IDs: CH15-U0181
+(Battle Mage: "Seems appropriate.")
+SPEECH | Battle Mage | IDs: CH15-U0182
+(Battle Mage: "If Lady Midori is in the sky..."
+-> "...the enemy never knows where she'll strike next.")

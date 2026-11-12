@@ -1,0 +1,24 @@
+CH15 PAGE 007 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P007-PN01
+SPEECH | Midori | IDs: CH15-U0040
+(Midori: "Professor..."
+-> "...it's beautiful.")
+
+CH15-P007-PN02
+[SILENT — NO LETTERING]
+
+CH15-P007-PN03
+SPEECH | Brienmay | IDs: CH15-U0041
+(Brienmay: "Every generation believes the world is complete..."
+-> "...until someone discovers a higher place from which to see it.")
+NARRATION | Narration | IDs: CH15-U0042
+Narration:
+"For the first time aboard a Zoran-built flying craft..."
+NARRATION | Narration | IDs: CH15-U0043
+"...the world below was visible without a mage sustaining personal Flight Magic."
+
+CH15-P007-PN04
+NARRATION | Narration | IDs: CH15-U0044
+Narration: "In the following mon..."

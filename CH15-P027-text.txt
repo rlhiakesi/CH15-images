@@ -1,0 +1,19 @@
+CH15 PAGE 027 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P027-PN01
+SPEECH | Battle Mage | IDs: CH15-U0156
+(Battle Mage: "Aircraft!")
+SPEECH | Wind Mage | IDs: CH15-U0157
+(Wind Mage: "Signal headquarters.")
+
+CH15-P027-PN02
+SPEECH | Battle Mage | IDs: CH15-U0158
+(Battle Mage: "Steady...")
+
+CH15-P027-PN03
+SPEECH | Wind Mage | IDs: CH15-U0159
+(Wind Mage: "Release!")
+
+CH15-P027-PN04
+[SILENT — NO LETTERING]

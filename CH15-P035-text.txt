@@ -1,0 +1,38 @@
+CH15 PAGE 035 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P035-PN01
+SPEECH | Roselyn | IDs: CH15-U0209
+(Roselyn: "Lady Midori..."
+-> "There's something I neglected to mention.")
+SPEECH | Roselyn | IDs: CH15-U0210
+(Roselyn: "Lady Zarleen departed the residence three days ago for her pregnancy leave.")
+
+CH15-P035-PN02
+SPEECH | Roselyn | IDs: CH15-U0211
+(Roselyn: "Your dormitory has an empty room.")
+
+CH15-P035-PN03
+SPEECH | Roselyn | IDs: CH15-U0212
+(Roselyn: "Naandeen is now House Mentor, and the Academy has approved Marta for the vacancy.")
+SPEECH | Roselyn | IDs: CH15-U0213
+(Roselyn: "Beginning tomorrow..."
+-> "Marta will be your new roommate.")
+
+CH15-P035-PN04
+SPEECH | Marta | IDs: CH15-U0214
+(Marta: "R-Really?")
+SPEECH | Midori | IDs: CH15-U0215
+(Midori: "Welcome home, Marta.")
+NARRATION | Narration | IDs: CH15-U0216
+Narration:
+"And so another chapter quietly began."
+
+CH15-P035-PN05
+[SILENT — NO LETTERING]
+
+CH15-P035-PN06
+SFX | SFX | IDs: CH15-U0217
+Sound: Knock... Knock...
+SPEECH | Midori | IDs: CH15-U0218
+(Midori: "Come in.")

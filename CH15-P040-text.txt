@@ -1,0 +1,39 @@
+CH15 PAGE 040 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P040-PN01
+SPEECH | Buren | IDs: CH15-U0248
+(Buren: "You're late.")
+SPEECH | Midori | IDs: CH15-U0249
+(Midori: "I wasn't aware we were racing.")
+
+CH15-P040-PN02
+SPEECH | Buren | IDs: CH15-U0250
+(Buren: "Good."
+-> "I'd hate to leave without our Ace Mage.")
+SPEECH | Midori | IDs: CH15-U0251
+(Midori: "Please don't call me that.")
+SPEECH | Buren | IDs: CH15-U0252
+(Buren: "I didn't."
+-> "The army did.")
+
+CH15-P040-PN03
+SPEECH | Marta | IDs: CH15-U0253
+(Marta: "Someday..."
+-> "...I want to serve beside her.")
+SPEECH | Naandeen | IDs: CH15-U0254
+(Naandeen: "Then study hard.")
+
+CH15-P040-PN04
+[SILENT — NO LETTERING]
+
+CH15-P040-PN05
+SPEECH | Adnil | IDs: CH15-U0255
+(Adnil: "And learn to keep up with her.")
+NARRATION | Narration | IDs: CH15-U0256
+Narration:
+"Peace at the Academy..."
+NARRATION | Narration | IDs: CH15-U0257
+"...and war at the frontier."
+NARRATION | Narration | IDs: CH15-U0258
+"Such had become the rhythm of Midori's life."

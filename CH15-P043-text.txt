@@ -1,0 +1,29 @@
+CH15 PAGE 043 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P043-PN01
+NARRATION | Narration | IDs: CH15-U0276
+Narration:
+"With each campaign..."
+NARRATION | Narration | IDs: CH15-U0277
+"...the missions reached farther behind enemy lines."
+
+CH15-P043-PN02
+SPEECH | Healer | IDs: CH15-U0278
+(Healer: "Current reserve..."
+-> "...forty-three percent.")
+
+CH15-P043-PN03
+SPEECH | Healer | IDs: CH15-U0279
+(Healer: "Mana reserve: One hundred percent."
+-> "Eyes: Red—her full-reserve indicator."
+-> "Cleared for deployment.")
+
+CH15-P043-PN04
+SPEECH | Wind Mage | IDs: CH15-U0280
+(Wind Mage: "Full charge?")
+SPEECH | Midori | IDs: CH15-U0281
+(Midori: "Full.")
+SPEECH | Wind Mage | IDs: CH15-U0282
+(Wind Mage: "Good."
+-> "Let's not waste it.")

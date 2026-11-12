@@ -1,0 +1,20 @@
+CH15 PAGE 024 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P024-PN01
+SPEECH | Midori | IDs: CH15-U0137
+(Midori: "They aren't attacking the mages.")
+SPEECH | Midori | IDs: CH15-U0138
+(Midori: "They're attacking the aircraft.")
+
+CH15-P024-PN02
+SPEECH | Brienmay | IDs: CH15-U0139
+(Brienmay: "Because replacing a Sky Sail takes weeks."
+-> "Replacing two mages takes much longer.")
+
+CH15-P024-PN03
+SPEECH | Researcher | IDs: CH15-U0140
+(Researcher: "Then perhaps..."
+-> "...the Sky Sail isn't the target.")
+SPEECH | Researcher | IDs: CH15-U0141
+(Researcher: "Perhaps it's the bait.")

@@ -1,0 +1,26 @@
+CH15 PAGE 009 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P009-PN01
+SPEECH | Midori | IDs: CH15-U0054
+(Midori: "They survived...")
+
+CH15-P009-PN02
+SPEECH | Brienmay | IDs: CH15-U0055
+(Brienmay: "Because of your Flight Magic.")
+
+CH15-P009-PN03
+SPEECH | Brienmay | IDs: CH15-U0056
+(Brienmay: "The balloon did not.")
+NARRATION | Narration | IDs: CH15-U0057
+Narration:
+"As every new invention changed the battlefield..."
+NARRATION | Narration | IDs: CH15-U0058
+"...the battlefield demanded another."
+
+CH15-P009-PN04
+[SILENT — NO LETTERING]
+
+CH15-P009-PN05
+SPEECH | Observer | IDs: CH15-U0059
+(Observer: "Aircraft!")

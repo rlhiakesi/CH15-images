@@ -1,0 +1,27 @@
+CH15 PAGE 017 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P017-PN01
+SPEECH | Midori | IDs: CH15-U0095
+(Midori: "It isn't like Dark Flight."
+-> "...it feels like working with the wind.")
+
+CH15-P017-PN02
+SPEECH | Brienmay | IDs: CH15-U0096
+(Brienmay: "Precisely."
+-> "You are no longer overcoming nature..."
+-> "...you are cooperating with it.")
+NARRATION | Narration | IDs: CH15-U0097
+Narration:
+"The first military Sky Sail required two mages..."
+NARRATION | Narration | IDs: CH15-U0098
+"...but together, they accomplished what neither could alone."
+
+CH15-P017-PN03
+SPEECH | Instructor | IDs: CH15-U0099
+(Instructor: "Remember..."
+-> "The pilot brings you home."
+-> "The observer wins the battle.")
+
+CH15-P017-PN04
+[SILENT — NO LETTERING]

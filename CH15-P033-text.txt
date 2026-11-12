@@ -1,0 +1,32 @@
+CH15 PAGE 033 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P033-PN01
+SPEECH | Midori | IDs: CH15-U0195
+(Midori: "Being brave doesn't mean you're not afraid."
+-> "It means you've decided something else is more important.")
+
+CH15-P033-PN02
+SPEECH | Marta | IDs: CH15-U0196
+(Marta: "Then..."
+-> "...I hope someday..."
+-> "...I can become a mage like you.")
+SPEECH | Midori | IDs: CH15-U0197
+(Midori: "No.")
+
+CH15-P033-PN03
+SPEECH | Midori | IDs: CH15-U0198
+(Midori: "Become a better Marta."
+-> "The world already has one Midori.")
+NARRATION | Narration | IDs: CH15-U0199
+Narration:
+"Legends inspire admiration."
+NARRATION | Narration | IDs: CH15-U0200
+"But true teachers inspire people to become themselves."
+
+CH15-P033-PN04
+SPEECH | Midori | IDs: CH15-U0201
+(Midori: "Is she following us?")
+SPEECH | Roselyn | IDs: CH15-U0202
+(Roselyn: "Yes."
+-> "She has been ever since your lecture ended.")

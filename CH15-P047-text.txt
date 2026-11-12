@@ -1,0 +1,26 @@
+CH15 PAGE 047 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P047-PN01
+SPEECH | Officer | IDs: CH15-U0302
+(Officer: "He's become an exceptional leader.")
+SPEECH | Midori | IDs: CH15-U0303
+(Midori: "He always could have been.")
+
+CH15-P047-PN02
+SPEECH | Officer | IDs: CH15-U0304
+(Officer: "You knew?")
+SPEECH | Midori | IDs: CH15-U0305
+(Midori: "I hoped.")
+
+CH15-P047-PN03
+SPEECH | Buren | IDs: CH15-U0306
+(Buren: "Still blowing things up behind enemy lines?")
+SPEECH | Midori | IDs: CH15-U0307
+(Midori: "Someone has to.")
+
+CH15-P047-PN04
+SPEECH | Buren | IDs: CH15-U0308
+(Buren: "Try not to destroy the whole country.")
+SPEECH | Midori | IDs: CH15-U0309
+(Midori: "Only the important parts.")

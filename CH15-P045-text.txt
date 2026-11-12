@@ -1,0 +1,18 @@
+CH15 PAGE 045 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P045-PN01
+SFX | SFX | IDs: CH15-U0292
+Sound: BOOOOOM!!
+
+CH15-P045-PN02
+SPEECH | Healer | IDs: CH15-U0293
+(Healer: "Reserve: Twenty-nine percent."
+-> "You'll need a full recharge before tomorrow.")
+
+CH15-P045-PN03
+SPEECH | Healer | IDs: CH15-U0294
+(Healer: "Reserve restored.")
+
+CH15-P045-PN04
+[SILENT — NO LETTERING]

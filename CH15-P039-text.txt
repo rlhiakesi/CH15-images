@@ -1,0 +1,13 @@
+CH15 PAGE 039 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P039-PN01
+SPEECH | Courier | IDs: CH15-U0245
+(Courier: "Lady Midori."
+-> "Orders from Frontier Command.")
+
+CH15-P039-PN02
+SPEECH | Roselyn | IDs: CH15-U0246
+(Roselyn: "Another campaign?")
+SPEECH | Midori | IDs: CH15-U0247
+(Midori: "It seems so.")

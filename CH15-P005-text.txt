@@ -1,0 +1,28 @@
+CH15 PAGE 005 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P005-PN01
+[SILENT — NO LETTERING]
+
+CH15-P005-PN02
+SPEECH | Midori | IDs: CH15-U0029
+(Midori: "I changed two things at once. I wasn't watching the heat.")
+
+CH15-P005-PN03
+SPEECH | Brienmay | IDs: CH15-U0030
+(Brienmay: "Then we change the material, separate the controls, and require a bailout drill before anyone flies again.")
+NARRATION | Narration | IDs: CH15-U0031
+Narration:
+"The first crewed flight taught them how not to fly."
+
+CH15-P005-PN04
+SPEECH | Brienmay | IDs: CH15-U0032
+(Brienmay: "Release.")
+
+CH15-P005-PN05
+SPEECH | Midori | IDs: CH15-U0033
+(Midori: "It's actually flying...")
+SPEECH | Brienmay | IDs: CH15-U0034
+(Brienmay: "No."
+-> "It's floating."
+-> "There is a difference.")

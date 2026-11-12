@@ -1,0 +1,32 @@
+CH15 PAGE 003 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P003-PN01
+[SILENT — NO LETTERING]
+
+CH15-P003-PN02
+SPEECH | Researcher | IDs: CH15-U0017
+(Researcher: "Large enough to carry a person?")
+SPEECH | Brienmay | IDs: CH15-U0018
+(Brienmay: "Eventually.")
+SPEECH | Brienmay | IDs: CH15-U0019
+(Brienmay: "First..."
+-> "We learn to lift weight."
+-> "Then we learn to lift people.")
+
+CH15-P003-PN03
+SPEECH | Midori | IDs: CH15-U0020
+(Midori: "Just like Flight Magic.")
+SPEECH | Brienmay | IDs: CH15-U0021
+(Brienmay: "Exactly.")
+
+CH15-P003-PN04
+NARRATION | Narration | IDs: CH15-U0022
+Narration:
+"Within the Temple...
+
+CH15-P003-PN05
+SPEECH | Midori | IDs: CH15-U0023
+(Midori: "It's... larger than I imagined.")
+SPEECH | Brienmay | IDs: CH15-U0024
+(Brienmay: "So is the sky.")

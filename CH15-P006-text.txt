@@ -1,0 +1,21 @@
+CH15 PAGE 006 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P006-PN01
+NARRATION | Narration | IDs: CH15-U0035
+Narration:
+"The experiment had succeeded."
+NARRATION | Narration | IDs: CH15-U0036
+"...which meant the real work could finally begin."
+
+CH15-P006-PN02
+SPEECH | Brienmay | IDs: CH15-U0037
+(Brienmay: "Lady Midori..."
+-> "Would you care to make history?")
+SPEECH | Midori | IDs: CH15-U0038
+(Midori: "Only if you're coming with me.")
+SPEECH | Brienmay | IDs: CH15-U0039
+(Brienmay: "I was hoping you would say that.")
+
+CH15-P006-PN03
+[SILENT — NO LETTERING]

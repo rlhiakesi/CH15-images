@@ -1,0 +1,20 @@
+CH15 PAGE 020 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P020-PN01
+SPEECH | Officer | IDs: CH15-U0116
+(Officer: "A new aircraft.")
+
+CH15-P020-PN02
+SPEECH | Midori | IDs: CH15-U0117
+(Midori: "It's much smaller."
+-> "...and much cleaner.")
+SPEECH | Brienmay | IDs: CH15-U0118
+(Brienmay: "The observer estimates..."
+-> "...nearly twice the speed of previous aircraft.")
+
+CH15-P020-PN03
+SPEECH | Officer | IDs: CH15-U0119
+(Officer: "No spellcaster."
+-> "Mechanical bomb release."
+-> "Conventional bombs on a mechanical rack.")

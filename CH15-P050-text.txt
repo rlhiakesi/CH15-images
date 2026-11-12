@@ -1,0 +1,27 @@
+CH15 PAGE 050 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P050-PN01
+NARRATION | Narration | IDs: CH15-U0324
+Narration: "In the next mon..."
+
+CH15-P050-PN02
+[SILENT — NO LETTERING]
+
+CH15-P050-PN03
+SPEECH | Midori | IDs: CH15-U0325
+(Midori: "There are more of them now.")
+SPEECH | Roselyn | IDs: CH15-U0326
+(Roselyn: "Yes."
+-> "Every new class has a few.")
+
+CH15-P050-PN04
+SPEECH | Midori | IDs: CH15-U0327
+(Midori: "Their parents allow it?")
+SPEECH | Roselyn | IDs: CH15-U0328
+(Roselyn: "Many of the parents served beside you."
+-> "To them... black hair no longer means demons.")
+
+CH15-P050-PN05
+SPEECH | Girl | IDs: CH15-U0329
+(Girl: "Go ask her.")

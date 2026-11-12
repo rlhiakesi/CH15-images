@@ -1,0 +1,33 @@
+CH15 PAGE 037 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P037-PN01
+SPEECH | Midori | IDs: CH15-U0229
+(Midori: "...your own uniform suits you, too.")
+NARRATION | Narration | IDs: CH15-U0230
+Narration:
+"One chapter of Academy life had ended."
+NARRATION | Narration | IDs: CH15-U0231
+"Another had just begun."
+
+CH15-P037-PN02
+SPEECH | Marta | IDs: CH15-U0232
+(Marta: "House Mentor Naandeen... could I have my uniform made like Lady Midori’s?")
+SPEECH | Marta | IDs: CH15-U0233
+(Marta: "I would study harder if I looked more like her!")
+
+CH15-P037-PN03
+SPEECH | Naandeen | IDs: CH15-U0234
+(Naandeen: "Lady Midori’s longer skirt was a special exception.")
+SPEECH | Naandeen | IDs: CH15-U0235
+(Naandeen: "The Academy will not approve another change to the standard uniform.")
+
+CH15-P037-PN04
+SPEECH | Marta | IDs: CH15-U0236
+(Marta: "But she looks so much more like a real mage.")
+SPEECH | Naandeen | IDs: CH15-U0237
+(Naandeen: "Her accomplishments make her a mage. Not her skirt.")
+
+CH15-P037-PN05
+SPEECH | Naandeen | IDs: CH15-U0238
+(Naandeen: "Wear this properly. Earn your accomplishments in it.")

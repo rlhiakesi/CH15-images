@@ -1,0 +1,22 @@
+CH15 PAGE 012 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P012-PN01
+SPEECH | Officer | IDs: CH15-U0068
+(Officer: "Aircraft are becoming faster."
+-> "Soon they won't need surprise."
+-> "A balloon cannot escape.")
+
+CH15-P012-PN02
+SPEECH | Researcher | IDs: CH15-U0069
+(Researcher: "Professor..."
+-> "May I have a moment?")
+
+CH15-P012-PN03
+SPEECH | Researcher | IDs: CH15-U0070
+(Researcher: "The wind pushes it sideways...")
+SPEECH | Researcher | IDs: CH15-U0071
+(Researcher: "...could moving air over a curved canopy lift us?")
+
+CH15-P012-PN04
+[SILENT — NO LETTERING]

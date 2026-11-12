@@ -1,0 +1,26 @@
+CH15 PAGE 026 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P026-PN01
+SPEECH | Cadet | IDs: CH15-U0150
+(Cadet: "But... what if we can still save it?")
+SPEECH | Midori | IDs: CH15-U0151
+(Midori: "Then save your partner first."
+-> "Recover the Sky Sail later.")
+
+CH15-P026-PN02
+SPEECH | Veteran | IDs: CH15-U0152
+(Veteran: "She teaches like she's been doing this for decades.")
+SPEECH | Buren | IDs: CH15-U0153
+(Buren: "Sometimes..."
+-> "...I think she has.")
+
+CH15-P026-PN03
+NARRATION | Narration | IDs: CH15-U0154
+Narration:
+"Every lesson learned in peace..."
+NARRATION | Narration | IDs: CH15-U0155
+"...would one day save lives in war."
+
+CH15-P026-PN04
+[SILENT — NO LETTERING]

@@ -1,0 +1,34 @@
+CH15 PAGE 036 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P036-PN01
+SPEECH | Roselyn | IDs: CH15-U0219
+(Roselyn: "Ladies..."
+-> "I'd like you to meet your newest roommate.")
+SPEECH | Marta | IDs: CH15-U0220
+(Marta: "M-my name is Marta."
+-> "Please take care of me.")
+SPEECH | Adnil | IDs: CH15-U0221
+(Adnil: "Welcome!")
+
+CH15-P036-PN02
+SPEECH | Midori | IDs: CH15-U0222
+(Midori: "You drew my uniform?")
+SPEECH | Marta | IDs: CH15-U0223
+(Marta: "I..."
+-> "...wanted to ask the seamstress to make mine longer.")
+SPEECH | Marta | IDs: CH15-U0224
+(Marta: "...because I always thought yours looked elegant.")
+
+CH15-P036-PN03
+SPEECH | Adnil | IDs: CH15-U0225
+(Adnil: "Don't worry."
+-> "You're not the first person who's tried to copy Lady Midori.")
+SPEECH | Marta | IDs: CH15-U0226
+(Marta: "I-I'm sorry!")
+
+CH15-P036-PN04
+SPEECH | Midori | IDs: CH15-U0227
+(Midori: "You don't have to become me.")
+SPEECH | Midori | IDs: CH15-U0228
+(Midori: "But...")

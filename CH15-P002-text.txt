@@ -1,0 +1,28 @@
+CH15 PAGE 002 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P002-PN01
+SPEECH | Midori | IDs: CH15-U0009
+(Midori: "Professor...")
+SPEECH | Midori | IDs: CH15-U0010
+(Midori: "That lantern isn't using mana.")
+
+CH15-P002-PN02
+SPEECH | Brienmay | IDs: CH15-U0011
+(Brienmay: "The flame heats the air inside it.")
+SPEECH | Midori | IDs: CH15-U0012
+(Midori: "And the air carries the lantern.")
+SPEECH | Midori | IDs: CH15-U0013
+(Midori: "Could it carry something heavier?")
+
+CH15-P002-PN03
+SPEECH | Brienmay | IDs: CH15-U0014
+(Brienmay: "Clear the central worktable."
+-> "Bring paper, cloth, wire, and every lantern design in the Temple archives.")
+SPEECH | Brienmay | IDs: CH15-U0015
+(Brienmay: "Let us find out.")
+
+CH15-P002-PN04
+SPEECH | Brienmay | IDs: CH15-U0016
+(Brienmay: "Lady Midori has shown us that magic is not always the answer."
+-> "Sometimes the answer is observation.")

@@ -1,0 +1,20 @@
+CH15 PAGE 014 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P014-PN01
+SPEECH | Midori | IDs: CH15-U0076
+(Midori: "That was better.")
+SPEECH | Researcher | IDs: CH15-U0077
+(Researcher: "Much better."
+-> "It stayed open.")
+SPEECH | Brienmay | IDs: CH15-U0078
+(Brienmay: "Then we've solved one problem."
+-> "Now we find the next one.")
+
+CH15-P014-PN02
+NARRATION | Narration | IDs: CH15-U0079
+Narration:
+"Each failure removed another unknown."
+
+CH15-P014-PN03
+[SILENT — NO LETTERING]

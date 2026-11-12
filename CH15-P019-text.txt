@@ -1,0 +1,25 @@
+CH15 PAGE 019 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P019-PN01
+SPEECH | Engineer | IDs: CH15-U0110
+(Engineer: "The Zorans have put mages in the sky. We must reach them faster.")
+
+CH15-P019-PN02
+NARRATION | Narration | IDs: CH15-U0111
+Narration:
+"Nyssara's answer was engineering, testing, and industrial production."
+
+CH15-P019-PN03
+SPEECH | Commander | IDs: CH15-U0112
+(Commander: "Strike the balloons first. Do not give the Battle Mages time to approach.")
+
+CH15-P019-PN04
+SPEECH | Brienmay | IDs: CH15-U0113
+(Brienmay: "They are learning as quickly as we are.")
+SPEECH | Midori | IDs: CH15-U0114
+(Midori: "Then our aircraft must deliver mages to the fight—not try to outrun their engines.")
+
+CH15-P019-PN05
+SPEECH | Courier | IDs: CH15-U0115
+(Courier: "Urgent report from the Northern Frontier!")

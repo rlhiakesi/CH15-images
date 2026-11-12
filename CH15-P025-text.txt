@@ -1,0 +1,32 @@
+CH15 PAGE 025 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P025-PN01
+SPEECH | Brienmay | IDs: CH15-U0142
+(Brienmay: "What do you think?")
+SPEECH | Midori | IDs: CH15-U0143
+(Midori: "If they always come after the Sky Sail...")
+
+CH15-P025-PN02
+SPEECH | Midori | IDs: CH15-U0144
+(Midori: "...then we'll know exactly where they'll be.")
+NARRATION | Narration | IDs: CH15-U0145
+Narration:
+"Every new weapon eventually became a target..."
+NARRATION | Narration | IDs: CH15-U0146
+"...and every target could become a trap."
+
+CH15-P025-PN03
+SPEECH | Instructor | IDs: CH15-U0147
+(Instructor: "Again!")
+
+CH15-P025-PN04
+[SILENT — NO LETTERING]
+
+CH15-P025-PN05
+SPEECH | Midori | IDs: CH15-U0148
+(Midori: "Remember..."
+-> "The Sky Sail is equipment."
+-> "Your life is not.")
+SPEECH | Midori | IDs: CH15-U0149
+(Midori: "Never hesitate to abandon it.")

@@ -1,0 +1,28 @@
+CH15 PAGE 011 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P011-PN01
+SPEECH | Officer | IDs: CH15-U0061
+(Officer: "We've confirmed the pattern."
+-> "The enemy no longer ignores the balloons.")
+SPEECH | Officer | IDs: CH15-U0062
+(Officer: "They're hunting them.")
+
+CH15-P011-PN02
+SPEECH | Midori | IDs: CH15-U0063
+(Midori: "Then we need something..."
+-> "...that can hunt them back.")
+NARRATION | Narration | IDs: CH15-U0064
+Narration:
+"Every weapon inspired another."
+NARRATION | Narration | IDs: CH15-U0065
+"And every answer became the next question."
+
+CH15-P011-PN03
+[SILENT — NO LETTERING]
+
+CH15-P011-PN04
+SPEECH | Brienmay | IDs: CH15-U0066
+(Brienmay: "The balloons are doing exactly what we designed them to do.")
+SPEECH | Brienmay | IDs: CH15-U0067
+(Brienmay: "The enemy has simply learned to destroy them.")

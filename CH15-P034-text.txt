@@ -1,0 +1,23 @@
+CH15 PAGE 034 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P034-PN01
+SPEECH | Marta | IDs: CH15-U0203
+(Marta: "I'm sorry!"
+-> "I didn't mean to disturb you.")
+SPEECH | Roselyn | IDs: CH15-U0204
+(Roselyn: "Then why are you following us?")
+
+CH15-P034-PN02
+SPEECH | Marta | IDs: CH15-U0205
+(Marta: "Because..."
+-> "...I wanted to remember everything Lady Midori said.")
+
+CH15-P034-PN03
+SPEECH | Midori | IDs: CH15-U0206
+(Midori: "You worked very hard on this.")
+SPEECH | Marta | IDs: CH15-U0207
+(Marta: "I don't have your talent..."
+-> "...so I have to study harder.")
+SPEECH | Midori | IDs: CH15-U0208
+(Midori: "Hard work is a talent.")

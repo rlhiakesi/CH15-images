@@ -1,0 +1,33 @@
+CH15 PAGE 048 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P048-PN01
+NARRATION | Narration | IDs: CH15-U0310
+Narration:
+"The Academy had forged two very different mages..."
+NARRATION | Narration | IDs: CH15-U0311
+"...each extraordinary in their own way."
+
+CH15-P048-PN02
+SPEECH | Roselyn | IDs: CH15-U0312
+(Roselyn: "Today's guest instructor..."
+-> "...Lady Midori.")
+
+CH15-P048-PN03
+SPEECH | Midori | IDs: CH15-U0313
+(Midori: "This saved my life.")
+SPEECH | Midori | IDs: CH15-U0314
+(Midori: "Twice.")
+
+CH15-P048-PN04
+SPEECH | Midori | IDs: CH15-U0315
+(Midori: "The first responsibility of every Battle Mage..."
+-> "...is to complete the mission.")
+SPEECH | Midori | IDs: CH15-U0316
+(Midori: "The second..."
+-> "...is to come home.")
+
+CH15-P048-PN05
+SPEECH | Cadet | IDs: CH15-U0317
+(Cadet: "Lady Midori..."
+-> "...do you think this looks nice?")

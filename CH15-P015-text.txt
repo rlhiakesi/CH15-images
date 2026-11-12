@@ -1,0 +1,39 @@
+CH15 PAGE 015 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P015-PN01
+SPEECH | Brienmay | IDs: CH15-U0080
+(Brienmay: "Congratulations."
+-> "You've taught the wind to carry a person.")
+
+CH15-P015-PN02
+SPEECH | Researcher | IDs: CH15-U0081
+(Researcher: "No, Professor...")
+SPEECH | Researcher | IDs: CH15-U0082
+(Researcher: "...Lady Midori taught us to ask whether it could.")
+NARRATION | Narration | IDs: CH15-U0083
+Narration:
+"Discovery had become contagious."
+
+CH15-P015-PN03
+SPEECH | Brienmay | IDs: CH15-U0084
+(Brienmay: "The pilot has enough to do already."
+-> "Maintaining lift."
+-> "Maintaining balance."
+-> "Maintaining direction.")
+SPEECH | Brienmay | IDs: CH15-U0085
+(Brienmay: "A pilot cannot fight at the same time.")
+
+CH15-P015-PN04
+SPEECH | Brienmay | IDs: CH15-U0086
+(Brienmay: "Then we add another mage.")
+SPEECH | Brienmay | IDs: CH15-U0087
+(Brienmay: "Wind Mage.")
+SPEECH | Brienmay | IDs: CH15-U0088
+(Brienmay: "Battle Mage.")
+
+CH15-P015-PN05
+SPEECH | Midori | IDs: CH15-U0089
+(Midori: "Just like the balloons.")
+SPEECH | Brienmay | IDs: CH15-U0090
+(Brienmay: "Exactly.")

@@ -1,0 +1,33 @@
+CH15 PAGE 042 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P042-PN01
+SPEECH | Commander | IDs: CH15-U0266
+(Commander: "A major offensive is expected within three days.")
+SPEECH | Commander | IDs: CH15-U0267
+(Commander: "Everything depends on this supply corridor.")
+SPEECH | Commander | IDs: CH15-U0268
+(Commander: "We need it gone.")
+
+CH15-P042-PN02
+SPEECH | Commander | IDs: CH15-U0269
+(Commander: "Too heavily defended for a ground assault.")
+SPEECH | Officer | IDs: CH15-U0270
+(Officer: "Too far behind enemy lines for ordinary Battle Mages.")
+
+CH15-P042-PN03
+SPEECH | Commander | IDs: CH15-U0271
+(Commander: "But not for you.")
+SPEECH | Midori | IDs: CH15-U0272
+(Midori: "I'll need a Sky Sail to get close.")
+
+CH15-P042-PN04
+SPEECH | Buren | IDs: CH15-U0273
+(Buren: "You're pushing farther behind enemy lines every mission.")
+SPEECH | Midori | IDs: CH15-U0274
+(Midori: "So are you.")
+
+CH15-P042-PN05
+SPEECH | Buren | IDs: CH15-U0275
+(Buren: "Yes..."
+-> "...but I get to come home with the rest of the army.")

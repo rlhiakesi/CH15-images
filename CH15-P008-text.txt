@@ -1,0 +1,31 @@
+CH15 PAGE 008 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P008-PN01
+SPEECH | Battle Mage | IDs: CH15-U0045
+(Battle Mage: "Enemy formation approaching from the east.")
+SPEECH | Observer | IDs: CH15-U0046
+(Observer: "Recorded.")
+SPEECH | Observer | IDs: CH15-U0047
+(Observer: "Message to Headquarters."
+-> "Advance the left flank.")
+
+CH15-P008-PN02
+SPEECH | Commander | IDs: CH15-U0048
+(Commander: "Left flank!"
+-> "Advance immediately!")
+NARRATION | Narration | IDs: CH15-U0049
+Narration:
+"The battlefield had acquired a new dimension."
+
+CH15-P008-PN03
+SPEECH | Midori | IDs: CH15-U0050
+(Midori: "They're seeing everything.")
+SPEECH | Brienmay | IDs: CH15-U0051
+(Brienmay: "Everything within sight.")
+SPEECH | Brienmay | IDs: CH15-U0052
+(Brienmay: "An army can no longer hide in open country.")
+
+CH15-P008-PN04
+SPEECH | Midori | IDs: CH15-U0053
+(Midori: "What's wrong?")

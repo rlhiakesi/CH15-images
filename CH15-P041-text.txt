@@ -1,0 +1,24 @@
+CH15 PAGE 041 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P041-PN01
+SPEECH | Brienmay | IDs: CH15-U0259
+(Brienmay: "Crystal size suggests capacity. Crystal color tells us the charge presently stored. The color of your eyes reflects your own reserve, not the crystal’s size.")
+
+CH15-P041-PN02
+SPEECH | Researcher | IDs: CH15-U0260
+(Researcher: "Yellow and higher cannot ordinarily be found in nature!")
+SPEECH | Brienmay | IDs: CH15-U0261
+(Brienmay: "They require refinement, controlled charging, and a great deal of expense.")
+
+CH15-P041-PN03
+SPEECH | Officer | IDs: CH15-U0262
+(Officer: "A red crystal lost with a fallen mage costs more than a wagon of ordinary supplies.")
+SPEECH | Midori | IDs: CH15-U0263
+(Midori: "Then don't issue them where a smaller one will do.")
+
+CH15-P041-PN04
+SPEECH | Brienmay | IDs: CH15-U0264
+(Brienmay: "A full crystal is not a full mage. Your percentage measures your own capacity.")
+SPEECH | Midori | IDs: CH15-U0265
+(Midori: "So even a red crystal is a reserve, not a guarantee.")

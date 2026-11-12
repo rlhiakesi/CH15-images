@@ -1,0 +1,29 @@
+CH15 PAGE 021 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P021-PN01
+SPEECH | Midori | IDs: CH15-U0120
+(Midori: "Professor?")
+SPEECH | Brienmay | IDs: CH15-U0121
+(Brienmay: "Every improvement we make..."
+-> "...forces them to improve.")
+
+CH15-P021-PN02
+SPEECH | Brienmay | IDs: CH15-U0122
+(Brienmay: "And every improvement they make..."
+-> "...forces us to do the same.")
+
+CH15-P021-PN03
+NARRATION | Narration | IDs: CH15-U0123
+Narration:
+"The contest was no longer between armies..."
+NARRATION | Narration | IDs: CH15-U0124
+"...but between ideas."
+
+CH15-P021-PN04
+[SILENT — NO LETTERING]
+
+CH15-P021-PN05
+SPEECH | Midori | IDs: CH15-U0125
+(Midori: "Aircraft..."
+-> "...three of them.")

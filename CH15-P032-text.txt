@@ -1,0 +1,35 @@
+CH15 PAGE 032 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P032-PN01
+SPEECH | Midori | IDs: CH15-U0188
+(Midori: "Everyone wants to learn stronger magic."
+-> "That's the wrong question.")
+SPEECH | Midori | IDs: CH15-U0189
+(Midori: "Ask instead..."
+-> "...whether the spell is worth what it costs.")
+
+CH15-P032-PN02
+[SILENT — NO LETTERING]
+
+CH15-P032-PN03
+SPEECH | Marta | IDs: CH15-U0190
+(Marta: "L-Lady Midori..."
+-> "...may I ask you one question?")
+
+CH15-P032-PN04
+SPEECH | Marta | IDs: CH15-U0191
+(Marta: "My name is Marta."
+-> "I'm a first-year student."
+-> "It's an honor to meet you, Lady Midori.")
+SPEECH | Midori | IDs: CH15-U0192
+(Midori: "It's nice to meet you too, Marta.")
+
+CH15-P032-PN05
+SPEECH | Marta | IDs: CH15-U0193
+(Marta: "How..."
+-> "...how do you know when you're brave?")
+SPEECH | Midori | IDs: CH15-U0194
+(Midori: "Usually..."
+-> "...I don't."
+-> "Usually I'm frightened.")

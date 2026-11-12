@@ -1,0 +1,32 @@
+CH15 PAGE 001 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P001-PN01
+SPEECH | Researcher | IDs: CH15-U0001
+(Researcher: "Forty-seven secs.")
+SPEECH | Brienmay | IDs: CH15-U0002
+(Brienmay: "Mana expenditure?")
+SPEECH | Researcher | IDs: CH15-U0003
+(Researcher: "Still far beyond the capacity of an ordinary mage.")
+
+CH15-P001-PN02
+SPEECH | Brienmay | IDs: CH15-U0004
+(Brienmay: "Your control continues to improve."
+-> "The cost does not.")
+
+CH15-P001-PN03
+SPEECH | Midori | IDs: CH15-U0005
+(Midori: "I know."
+-> "Even if someone could remain airborne..."
+-> "...they would have little mana left for anything else.")
+
+CH15-P001-PN04
+SPEECH | Brienmay | IDs: CH15-U0006
+(Brienmay: "We proved that a person can fly."
+-> "Now we must determine how to keep one in the sky.")
+SPEECH | Researcher | IDs: CH15-U0007
+(Researcher: "With less mana.")
+
+CH15-P001-PN05
+SPEECH | Brienmay | IDs: CH15-U0008
+(Brienmay: "Preferably with almost none.")

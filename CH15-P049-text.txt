@@ -1,0 +1,22 @@
+CH15 PAGE 049 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P049-PN01
+SPEECH | Midori | IDs: CH15-U0318
+(Midori: "Is this because of me?")
+SPEECH | Roselyn | IDs: CH15-U0319
+(Roselyn: "Every generation chooses its own symbols.")
+
+CH15-P049-PN02
+[SILENT — NO LETTERING]
+
+CH15-P049-PN03
+SPEECH | Roselyn | IDs: CH15-U0320
+(Roselyn: "I think they've chosen yours.")
+NARRATION | Narration | IDs: CH15-U0321
+Narration:
+"The old fear had not disappeared overnight..."
+NARRATION | Narration | IDs: CH15-U0322
+"...but among the youngest generation..."
+NARRATION | Narration | IDs: CH15-U0323
+"...it had already begun to fade."

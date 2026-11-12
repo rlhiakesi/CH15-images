@@ -1,0 +1,32 @@
+CH15 PAGE 023 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P023-PN01
+SPEECH | Midori | IDs: CH15-U0129
+(Midori: "They're faster..."
+-> "...and they knew exactly where to attack.")
+
+CH15-P023-PN02
+SPEECH | Midori | IDs: CH15-U0130
+(Midori: "The war has changed again.")
+NARRATION | Narration | IDs: CH15-U0131
+Narration:
+"The sky no longer belonged to either side."
+NARRATION | Narration | IDs: CH15-U0132
+"It had become another battlefield."
+
+CH15-P023-PN03
+[SILENT — NO LETTERING]
+
+CH15-P023-PN04
+SPEECH | Brienmay | IDs: CH15-U0133
+(Brienmay: "The design performed exactly as intended.")
+SPEECH | Midori | IDs: CH15-U0134
+(Midori: "It was destroyed.")
+SPEECH | Brienmay | IDs: CH15-U0135
+(Brienmay: "The crew survived."
+-> "That was always the first requirement.")
+
+CH15-P023-PN05
+SPEECH | Officer | IDs: CH15-U0136
+(Officer: "They're learning our tactics.")

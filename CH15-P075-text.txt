@@ -1,0 +1,29 @@
+CH15 PAGE 075 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P075-PN01
+SPEECH | Scout | IDs: CH15-U0461
+(Scout: "Enemy patrols are moving toward the depot.")
+SPEECH | Scout | IDs: CH15-U0462
+(Scout: "They'll be searching these roads first.")
+SPEECH | Buren | IDs: CH15-U0463
+(Buren: "We avoid the roads."
+-> "We'll cross the ridge.")
+
+CH15-P075-PN02
+SPEECH | Battle Mage | IDs: CH15-U0464
+(Battle Mage: "With Lady Midori?")
+SPEECH | Buren | IDs: CH15-U0465
+(Buren: "We carry what she can't.")
+
+CH15-P075-PN03
+[SILENT — NO LETTERING]
+
+CH15-P075-PN04
+SPEECH | Healer | IDs: CH15-U0466
+(Healer: "She's stable.")
+
+CH15-P075-PN05
+SPEECH | Healer | IDs: CH15-U0467
+(Healer: "Mana reserve restored."
+-> "One hundred percent.")

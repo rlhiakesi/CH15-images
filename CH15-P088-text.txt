@@ -1,0 +1,28 @@
+CH15 PAGE 088 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P088-PN01
+SPEECH | Officer | IDs: CH15-U0538
+(Officer: "At this rate, we cannot hold the frontier.")
+SPEECH | Commander | IDs: CH15-U0539
+(Commander: "Then the war cannot continue on its present terms.")
+
+CH15-P088-PN02
+NARRATION | Narration | IDs: CH15-U0540
+Narration:
+"Nyssara was no longer planning how to win the war. It was confronting how soon it would lose."
+
+CH15-P088-PN03
+SPEECH | Commander | IDs: CH15-U0541
+(Commander: "The Eastern Ridge has been secured.")
+SPEECH | Officer | IDs: CH15-U0542
+(Officer: "Enemy supply routes continue to contract.")
+
+CH15-P088-PN04
+SPEECH | Officer | IDs: CH15-U0543
+(Officer: "Three additional depots destroyed.")
+
+CH15-P088-PN05
+SPEECH | Officer | IDs: CH15-U0544
+(Officer: "Aircraft production continues to increase..."
+-> "...but they're defending their factories now instead of attacking ours.")

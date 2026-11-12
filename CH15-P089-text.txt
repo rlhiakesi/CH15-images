@@ -1,0 +1,27 @@
+CH15 PAGE 089 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P089-PN01
+SPEECH | Commander | IDs: CH15-U0545
+(Commander: "Two yurs ago..."
+-> "...we discussed which fortress we would lose next.")
+SPEECH | Commander | IDs: CH15-U0546
+(Commander: "Today..."
+-> "...we're deciding which one to reclaim.")
+
+CH15-P089-PN02
+[SILENT — NO LETTERING]
+
+CH15-P089-PN03
+NARRATION | Narration | IDs: CH15-U0547
+Narration:
+"Without realizing it..."
+NARRATION | Narration | IDs: CH15-U0548
+"...the balance of the war had shifted decisively toward Zora."
+
+CH15-P089-PN04
+NARRATION | Narration | IDs: CH15-U0549
+Narration:
+"At the beginning of these two yurs..."
+NARRATION | Narration | IDs: CH15-U0550
+"...Zora had been losing the war."

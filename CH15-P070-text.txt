@@ -1,0 +1,35 @@
+CH15 PAGE 070 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P070-PN01
+SPEECH | Commander | IDs: CH15-U0440
+(Commander: "The mission succeeded.")
+SPEECH | Commander | IDs: CH15-U0441
+(Commander: "We cannot lose another squad trying to recover one mage.")
+SPEECH | Commander | IDs: CH15-U0442
+(Commander: "One victim..."
+-> "...not two.")
+
+CH15-P070-PN02
+SPEECH | Buren | IDs: CH15-U0443
+(Buren: "Permission to organize a recovery team.")
+SPEECH | Commander | IDs: CH15-U0444
+(Commander: "Denied.")
+SPEECH | Buren | IDs: CH15-U0445
+(Buren: "Sir—")
+
+CH15-P070-PN03
+SPEECH | Commander | IDs: CH15-U0446
+(Commander: "That's an order.")
+SPEECH | Buren | IDs: CH15-U0447
+(Buren: "With respect..."
+-> "...I wasn't asking.")
+
+CH15-P070-PN04
+SPEECH | Buren | IDs: CH15-U0448
+(Buren: "We're bringing her home.")
+NARRATION | Narration | IDs: CH15-U0449
+Narration:
+"Some orders preserve armies."
+NARRATION | Narration | IDs: CH15-U0450
+"Others define leaders."

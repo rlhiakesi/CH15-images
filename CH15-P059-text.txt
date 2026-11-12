@@ -1,0 +1,33 @@
+CH15 PAGE 059 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P059-PN01
+SPEECH | Roselyn | IDs: CH15-U0375
+(Roselyn: "Their prejudice does not represent everyone in the Temple."
+-> "And it does not determine what you may wish for your own life.")
+
+CH15-P059-PN02
+SPEECH | Midori | IDs: CH15-U0376
+(Midori: "They value what I do for Zora..."
+-> "...but fear children who might look like me.")
+NARRATION | Narration | IDs: CH15-U0377
+Narration:
+"Some truths were spoken openly."
+NARRATION | Narration | IDs: CH15-U0378
+"Others remained carefully unspoken."
+
+CH15-P059-PN03
+[SILENT — NO LETTERING]
+
+CH15-P059-PN04
+SPEECH | Midori | IDs: CH15-U0379
+(Midori: "Everyone else has already gone home.")
+SPEECH | Marta | IDs: CH15-U0380
+(Marta: "I know..."
+-> "...but I almost had it.")
+
+CH15-P059-PN05
+SPEECH | Midori | IDs: CH15-U0381
+(Midori: "Show me.")
+SPEECH | Marta | IDs: CH15-U0382
+(Marta: "I'm just not very talented.")

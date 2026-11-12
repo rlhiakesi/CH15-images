@@ -1,0 +1,32 @@
+CH15 PAGE 052 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P052-PN01
+SPEECH | Treasurer | IDs: CH15-U0337
+(Treasurer: "The government directs our military deployments and funds the Battle Mage corps.")
+SPEECH | Treasurer | IDs: CH15-U0338
+(Treasurer: "The government commissions and funds much of our research.")
+
+CH15-P052-PN02
+SPEECH | Treasurer | IDs: CH15-U0339
+(Treasurer: "Professor Brienmay's aviation work."
+-> "New communication crystals."
+-> "Improved mana crystals.")
+
+CH15-P052-PN03
+SPEECH | Treasurer | IDs: CH15-U0340
+(Treasurer: "The Temple is the government’s principal magical research arm, not its ruler.")
+
+CH15-P052-PN04
+SPEECH | Treasurer | IDs: CH15-U0341
+(Treasurer: "Those funds become...")
+SPEECH | Treasurer | IDs: CH15-U0342
+(Treasurer: "Academies."
+-> "Hospitals."
+-> "Research."
+-> "Foster homes."
+-> "Retirement for elderly mages.")
+
+CH15-P052-PN05
+SPEECH | Treasurer | IDs: CH15-U0343
+(Treasurer: "Knowledge returns to the people.")

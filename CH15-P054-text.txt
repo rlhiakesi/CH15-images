@@ -1,0 +1,26 @@
+CH15 PAGE 054 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P054-PN01
+SPEECH | Midori | IDs: CH15-U0351
+(Midori: "He's taking very good care of you.")
+SPEECH | Zarleen | IDs: CH15-U0352
+(Zarleen: "That's his duty.")
+SPEECH | Midori | IDs: CH15-U0353
+(Midori: "Duty?")
+
+CH15-P054-PN02
+SPEECH | Roselyn | IDs: CH15-U0354
+(Roselyn: "Lady Midori..."
+-> "Has no one explained this yet?")
+SPEECH | Roselyn | IDs: CH15-U0355
+(Roselyn: "Come."
+-> "Let's have some tea.")
+
+CH15-P054-PN03
+[SILENT — NO LETTERING]
+
+CH15-P054-PN04
+SPEECH | Roselyn | IDs: CH15-U0356
+(Roselyn: "The customary Continuity Program contribution is three children, not three pregnancies."
+-> "It is considered service to the nation, subject to medical exceptions.")

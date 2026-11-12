@@ -1,0 +1,34 @@
+CH15 PAGE 060 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P060-PN01
+SPEECH | Midori | IDs: CH15-U0383
+(Midori: "No.")
+SPEECH | Midori | IDs: CH15-U0384
+(Midori: "You're watching the cloth."
+-> "Watch the air instead.")
+SPEECH | Midori | IDs: CH15-U0385
+(Midori: "The cloth only tells you what the air is doing.")
+
+CH15-P060-PN02
+[SILENT — NO LETTERING]
+
+CH15-P060-PN03
+SPEECH | Marta | IDs: CH15-U0386
+(Marta: "Lady Midori!")
+SPEECH | Marta | IDs: CH15-U0387
+(Marta: "Thank you!")
+
+CH15-P060-PN04
+[SILENT — NO LETTERING]
+
+CH15-P060-PN05
+SPEECH | Midori | IDs: CH15-U0388
+(Midori: "Remember..."
+-> "Don't watch the spell."
+-> "Watch what the spell is doing.")
+NARRATION | Narration | IDs: CH15-U0389
+Narration:
+"Great teachers rarely create greatness..."
+NARRATION | Narration | IDs: CH15-U0390
+"...they simply help others discover it."

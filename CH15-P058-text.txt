@@ -1,0 +1,24 @@
+CH15 PAGE 058 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P058-PN01
+SPEECH | Roselyn | IDs: CH15-U0369
+(Roselyn: "Both retired from military service before I was born.")
+SPEECH | Roselyn | IDs: CH15-U0370
+(Roselyn: "Not every child in Zora grows up in a foster home.")
+
+CH15-P058-PN02
+SPEECH | Midori | IDs: CH15-U0371
+(Midori: "Then..."
+-> "...when my turn comes...")
+SPEECH | Roselyn | IDs: CH15-U0372
+(Roselyn: "Your circumstances are... different.")
+
+CH15-P058-PN03
+SPEECH | Roselyn | IDs: CH15-U0373
+(Roselyn: "Officially, the High Council says your military service must not be interrupted..."
+-> "...but that explanation conceals the real reason.")
+
+CH15-P058-PN04
+SPEECH | Roselyn | IDs: CH15-U0374
+(Roselyn: "Influential authorities outside the Academy oppose the possibility of black-haired descendants.")

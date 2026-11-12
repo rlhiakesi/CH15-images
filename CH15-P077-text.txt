@@ -1,0 +1,20 @@
+CH15 PAGE 077 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P077-PN01
+SPEECH | Commander | IDs: CH15-U0479
+(Commander: "You disobeyed. Six lives were placed at risk. A good outcome does not make that decision lawful.")
+SPEECH | Buren | IDs: CH15-U0480
+(Buren: "I accept responsibility, Sir.")
+
+CH15-P077-PN02
+SPEECH | Midori | IDs: CH15-U0481
+(Midori: "I accepted a mission without a reliable return margin. My decision forced others to risk their lives.")
+
+CH15-P077-PN03
+SPEECH | Midori | IDs: CH15-U0482
+(Midori: "I knew the estimate was uncertain. I wanted the mission to succeed so badly that I treated the emergency crystal as permission to ignore that uncertainty.")
+
+CH15-P077-PN04
+SPEECH | Commander | IDs: CH15-U0483
+(Commander: "We need disciplined officers who can act on new information. We also need a rescue plan before a mission launches.")

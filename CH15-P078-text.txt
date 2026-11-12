@@ -1,0 +1,27 @@
+CH15 PAGE 078 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P078-PN01
+SPEECH | Midori | IDs: CH15-U0484
+(Midori: "Next time, the rescue starts before the mission.")
+SPEECH | Buren | IDs: CH15-U0485
+(Buren: "And next time, you leave enough mana to come home.")
+
+CH15-P078-PN02
+NARRATION | Narration | IDs: CH15-U0486
+Narration: "Later that mon..."
+
+CH15-P078-PN03
+SPEECH | Midori | IDs: CH15-U0487
+(Midori: "Today..."
+-> "...I'm not going to teach you how to destroy the enemy.")
+SPEECH | Midori | IDs: CH15-U0488
+(Midori: "...I'm going to teach you how to survive.")
+
+CH15-P078-PN04
+SPEECH | Midori | IDs: CH15-U0489
+(Midori: "These three crystals..."
+-> "...saved my life.")
+SPEECH | Midori | IDs: CH15-U0490
+(Midori: "A victory bought by ignoring the lives entrusted to us..."
+-> "...can become a defeat for the people who must bring us home.")

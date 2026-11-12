@@ -1,0 +1,30 @@
+CH15 PAGE 063 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P063-PN01
+[SILENT — NO LETTERING]
+
+CH15-P063-PN02
+NARRATION | Narration | IDs: CH15-U0406
+Narration:
+"As the war grew larger..."
+NARRATION | Narration | IDs: CH15-U0407
+"...so did the distance between home..."
+NARRATION | Narration | IDs: CH15-U0408
+"...and those sent to defend it."
+
+CH15-P063-PN03
+SPEECH | Officer | IDs: CH15-U0409
+(Officer: "I know what the reports say. I still do not like sending someone who looks like—")
+SPEECH | Buren | IDs: CH15-U0410
+(Buren: "Finish that sentence only if it improves the mission.")
+
+CH15-P063-PN04
+SPEECH | Midori | IDs: CH15-U0411
+(Midori: "Judge the route, not my hair. I need a realistic estimate of the return cost.")
+
+CH15-P063-PN05
+SPEECH | Buren | IDs: CH15-U0412
+(Buren: "You can refuse a plan that cannot bring you home.")
+SPEECH | Midori | IDs: CH15-U0413
+(Midori: "I know. But this depot is supplying the next offensive.")

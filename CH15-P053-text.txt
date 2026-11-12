@@ -1,0 +1,30 @@
+CH15 PAGE 053 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P053-PN01
+SPEECH | Treasurer | IDs: CH15-U0344
+(Treasurer: "Every mage who serves..."
+-> "...allows another child to learn.")
+
+CH15-P053-PN02
+SPEECH | Treasurer | IDs: CH15-U0345
+(Treasurer: "That is how the Temple has endured for centuries.")
+NARRATION | Narration | IDs: CH15-U0346
+Narration:
+"The Temple's greatest treasure was never its wealth..."
+NARRATION | Narration | IDs: CH15-U0347
+"...but the future that wealth made possible."
+
+CH15-P053-PN03
+[SILENT — NO LETTERING]
+
+CH15-P053-PN04
+SPEECH | Midori | IDs: CH15-U0348
+(Midori: "Lady Zarleen?")
+
+CH15-P053-PN05
+SPEECH | Zarleen | IDs: CH15-U0349
+(Zarleen: "Lady Midori!")
+SPEECH | Zarleen | IDs: CH15-U0350
+(Zarleen: "Yes."
+-> "They're growing quickly.")

@@ -1,0 +1,26 @@
+CH15 PAGE 082 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P082-PN01
+SPEECH | Examiner | IDs: CH15-U0509
+(Examiner: "Competent overall. Wind control is your strongest battlefield-useful skill.")
+SPEECH | Examiner | IDs: CH15-U0510
+(Examiner: "You qualify for second-yur study. You remain a Novice.")
+
+CH15-P082-PN02
+SPEECH | Marta | IDs: CH15-U0511
+(Marta: "I wanted to do something extraordinary.")
+
+CH15-P082-PN03
+SPEECH | Naandeen | IDs: CH15-U0512
+(Naandeen: "You did what was required, reliably. That is why you passed.")
+SPEECH | Marta | IDs: CH15-U0513
+(Marta: "Then I should thank you before I tell Lady Midori.")
+
+CH15-P082-PN04
+SPEECH | Marta | IDs: CH15-U0514
+(Marta: "They say they are proud of me.")
+
+CH15-P082-PN05
+SPEECH | Naandeen | IDs: CH15-U0515
+(Naandeen: "Then write back. Tell them what you learned.")

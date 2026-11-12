@@ -1,0 +1,32 @@
+CH15 PAGE 085 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P085-PN01
+[SILENT — NO LETTERING]
+
+CH15-P085-PN02
+NARRATION | Narration | IDs: CH15-U0526
+Narration:
+"History seldom changes all at once."
+NARRATION | Narration | IDs: CH15-U0527
+"It changes quietly..."
+NARRATION | Narration | IDs: CH15-U0528
+"...one question..."
+NARRATION | Narration | IDs: CH15-U0529
+"...one discovery..."
+NARRATION | Narration | IDs: CH15-U0530
+"...one generation at a time."
+
+CH15-P085-PN03
+NARRATION | Narration | IDs: CH15-U0531
+Narration: "Meanwhile..."
+NARRATION | Narration | IDs: CH15-U0532
+Narration:
+"Zora was not the only nation learning."
+
+CH15-P085-PN04
+SPEECH | Battle Mage | IDs: CH15-U0533
+(Battle Mage: "...there are more every mon.")
+
+CH15-P085-PN05
+[SILENT — NO LETTERING]

@@ -1,0 +1,28 @@
+CH15 PAGE 062 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P062-PN01
+NARRATION | Narration | IDs: CH15-U0398
+Narration: "In the next mon..."
+SPEECH | Healer | IDs: CH15-U0399
+(Healer: "Mana reserve: Forty-eight percent.")
+
+CH15-P062-PN02
+SPEECH | Healer | IDs: CH15-U0400
+(Healer: "One hundred percent."
+-> "Eyes: Red."
+-> "Cleared for deployment.")
+
+CH15-P062-PN03
+SPEECH | Buren | IDs: CH15-U0401
+(Buren: "Another deep strike?")
+SPEECH | Midori | IDs: CH15-U0402
+(Midori: "Supply depots again.")
+SPEECH | Buren | IDs: CH15-U0403
+(Buren: "They're sending you farther every campaign.")
+
+CH15-P062-PN04
+SPEECH | Midori | IDs: CH15-U0404
+(Midori: "That usually means we're winning.")
+SPEECH | Buren | IDs: CH15-U0405
+(Buren: "Or they're becoming desperate.")

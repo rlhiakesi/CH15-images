@@ -1,0 +1,25 @@
+CH15 PAGE 079 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P079-PN01
+SPEECH | Midori | IDs: CH15-U0491
+(Midori: "Know your limits.")
+SPEECH | Midori | IDs: CH15-U0492
+(Midori: "Trust your teammates.")
+SPEECH | Midori | IDs: CH15-U0493
+(Midori: "And if you ever have to choose...")
+
+CH15-P079-PN02
+SPEECH | Midori | IDs: CH15-U0494
+(Midori: "...choose each other.")
+
+CH15-P079-PN03
+SPEECH | Roselyn | IDs: CH15-U0495
+(Roselyn: "She sounds like a professor now.")
+SPEECH | Brienmay | IDs: CH15-U0496
+(Brienmay: "No.")
+SPEECH | Brienmay | IDs: CH15-U0497
+(Brienmay: "She sounds like experience.")
+NARRATION | Narration | IDs: CH15-U0498
+Narration:
+"Some lessons could never be learned from books."

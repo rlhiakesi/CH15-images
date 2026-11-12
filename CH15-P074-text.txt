@@ -1,0 +1,22 @@
+CH15 PAGE 074 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P074-PN01
+[SILENT — NO LETTERING]
+
+CH15-P074-PN02
+SPEECH | Battle Mage | IDs: CH15-U0456
+(Battle Mage: "...that's a full combat crystal.")
+
+CH15-P074-PN03
+SPEECH | Midori | IDs: CH15-U0457
+(Midori: "You'll need this.")
+SPEECH | Buren | IDs: CH15-U0458
+(Buren: "Not tonight.")
+
+CH15-P074-PN04
+SPEECH | Buren | IDs: CH15-U0459
+(Buren: "...three crystals...")
+SPEECH | Midori | IDs: CH15-U0460
+(Midori: "Professor Brienmay says..."
+-> "...I have an expensive hobby.")

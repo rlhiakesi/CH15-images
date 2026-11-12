@@ -1,0 +1,23 @@
+CH15 PAGE 065 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P065-PN01
+SPEECH | Wind Mage | IDs: CH15-U0419
+(Wind Mage: "Can you make it back?")
+
+CH15-P065-PN02
+SPEECH | Midori | IDs: CH15-U0420
+(Midori: "I think so.")
+
+CH15-P065-PN03
+SPEECH | Midori | IDs: CH15-U0421
+(Midori: "Wait here.")
+SPEECH | Wind Mage | IDs: CH15-U0422
+(Wind Mage: "We'll be here.")
+
+CH15-P065-PN04
+NARRATION | Narration | IDs: CH15-U0423
+Narration:
+"Every mission had demanded a little more..."
+NARRATION | Narration | IDs: CH15-U0424
+"...than the mission before."

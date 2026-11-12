@@ -1,0 +1,36 @@
+CH15 PAGE 076 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P076-PN01
+SPEECH | Commander | IDs: CH15-U0468
+(Commander: "You disobeyed a direct order.")
+SPEECH | Buren | IDs: CH15-U0469
+(Buren: "Yes, Sir.")
+SPEECH | Commander | IDs: CH15-U0470
+(Commander: "Would you do it again?")
+SPEECH | Buren | IDs: CH15-U0471
+(Buren: "Yes, Sir.")
+
+CH15-P076-PN02
+SPEECH | Commander | IDs: CH15-U0472
+(Commander: "Your success does not erase your disobedience. Report for a formal inquiry after the medical review.")
+SPEECH | Buren | IDs: CH15-U0473
+(Buren: "Yes, Sir.")
+
+CH15-P076-PN03
+SPEECH | Midori | IDs: CH15-U0474
+(Midori: "Thank you.")
+
+CH15-P076-PN04
+SPEECH | Buren | IDs: CH15-U0475
+(Buren: "You would have done the same for me.")
+
+CH15-P076-PN05
+SPEECH | Buren | IDs: CH15-U0476
+(Buren: "Besides..."
+-> "...you still owe me three mana crystals.")
+NARRATION | Narration | IDs: CH15-U0477
+Narration:
+"Lady Midori taught them to come home."
+NARRATION | Narration | IDs: CH15-U0478
+"Buren taught them to bring everyone home."

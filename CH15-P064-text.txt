@@ -1,0 +1,20 @@
+CH15 PAGE 064 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P064-PN01
+SPEECH | Quartermaster | IDs: CH15-U0414
+(Quartermaster: "Your route, your attack, and your return all draw from the same reserve.")
+
+CH15-P064-PN02
+SPEECH | Midori | IDs: CH15-U0415
+(Midori: "That's the last supply depot.")
+SPEECH | Wind Mage | IDs: CH15-U0416
+(Wind Mage: "It's farther than the others.")
+
+CH15-P064-PN03
+SPEECH | Wind Mage | IDs: CH15-U0417
+(Wind Mage: "That's beyond our usual range.")
+
+CH15-P064-PN04
+SPEECH | Midori | IDs: CH15-U0418
+(Midori: "I'll make it.")

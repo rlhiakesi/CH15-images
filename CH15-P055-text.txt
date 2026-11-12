@@ -1,0 +1,23 @@
+CH15 PAGE 055 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P055-PN01
+SPEECH | Roselyn | IDs: CH15-U0357
+(Roselyn: "Artificial insemination is usual, but approved partners may conceive naturally."
+-> "The Temple screens genetics and aptitude; a woman may request a suitable partner."
+-> "Beginning in the third mon, the designated male caregiver..."
+-> "...supports her full-time through pregnancy and postpartum recovery.")
+
+CH15-P055-PN02
+SPEECH | Midori | IDs: CH15-U0358
+(Midori: "So while she carries the children..."
+-> "...he carries everything else.")
+
+CH15-P055-PN03
+SPEECH | Roselyn | IDs: CH15-U0359
+(Roselyn: "Exactly.")
+NARRATION | Narration | IDs: CH15-U0360
+Narration:
+"In Zora..."
+NARRATION | Narration | IDs: CH15-U0361
+"...every generation was regarded as a responsibility shared by the entire nation."

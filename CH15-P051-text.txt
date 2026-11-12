@@ -1,0 +1,28 @@
+CH15 PAGE 051 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P051-PN01
+SPEECH | Marta | IDs: CH15-U0330
+(Marta: "Lady Midori...")
+SPEECH | Marta | IDs: CH15-U0331
+(Marta: "Would it..."
+-> "...offend you if I dyed my hair black someday?")
+SPEECH | Midori | IDs: CH15-U0332
+(Midori: "No.")
+
+CH15-P051-PN02
+SPEECH | Midori | IDs: CH15-U0333
+(Midori: "But do it because it means something to you..."
+-> "...not because it means something to me.")
+SPEECH | Marta | IDs: CH15-U0334
+(Marta: "I understand.")
+
+CH15-P051-PN03
+SPEECH | Midori | IDs: CH15-U0335
+(Midori: "Does the Temple control how its inventions are used in war?")
+
+CH15-P051-PN04
+SPEECH | Treasurer | IDs: CH15-U0336
+(Treasurer: "The government commands the war."
+-> "The Temple and government share research responsibility..."
+-> "...but the government directs military applications.")

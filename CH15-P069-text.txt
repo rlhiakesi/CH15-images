@@ -1,0 +1,28 @@
+CH15 PAGE 069 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH15-P069-PN01
+[SILENT — NO LETTERING]
+
+CH15-P069-PN02
+NARRATION | Narration | IDs: CH15-U0433
+Narration:
+"For the first time since arriving in Zora..."
+NARRATION | Narration | IDs: CH15-U0434
+"...Lady Midori found herself completely alone."
+
+CH15-P069-PN03
+SPEECH | Wind Mage | IDs: CH15-U0435
+(Wind Mage: "We're leaving.")
+
+CH15-P069-PN04
+SPEECH | Commander | IDs: CH15-U0436
+(Commander: "Report!")
+SPEECH | Wind Mage | IDs: CH15-U0437
+(Wind Mage: "Lady Midori never returned.")
+
+CH15-P069-PN05
+SPEECH | Commander | IDs: CH15-U0438
+(Commander: "Mana estimate?")
+SPEECH | Wind Mage | IDs: CH15-U0439
+(Wind Mage: "Her planned return margin was already narrow. She missed the rendezvous, and I have no contact.")
